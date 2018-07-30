@@ -5,5 +5,4 @@ def reverse_each_word(sentence)
     second_array << string.reverse
   end
   second_array.join(" ")
-    
 end
